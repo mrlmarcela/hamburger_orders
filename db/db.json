@@ -1,0 +1,83 @@
+{
+  "ingredients": {
+    "breads": [
+      {
+        "id": 1,
+        "type": "White Italian"
+      },
+      {
+        "id": 2,
+        "type": "3 cheeses"
+      },
+      {
+        "id": 3,
+        "type": "Parmesan and Oregano"
+      },
+      {
+        "id": 4,
+        "type": "Whole grain bread"
+      }
+    ],
+    "meat": [
+      {
+        "id": 1,
+        "type": "Titty"
+      },
+      {
+        "id": 2,
+        "type": "Rump"
+      },
+      {
+        "id": 3,
+        "type": "Filet steak"
+      },
+      {
+        "id": 4,
+        "type": "Veggie burger"
+      }
+    ],
+    "optional": [
+      {
+        "id": 1,
+        "type": "Bacon"
+      },
+      {
+        "id": 2,
+        "type": "Cheddar"
+      },
+      {
+        "id": 3,
+        "type": "Salami"
+      },
+      {
+        "id": 4,
+        "type": "Tomato"
+      },
+      {
+        "id": 5,
+        "type": "Purple Onion"
+      },
+      {
+        "id": 6,
+        "type": "Cucumber"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "type": "Requested"
+    },
+    {
+      "id": 2,
+      "type": "In production"
+    },
+    {
+      "id": 3,
+      "type": "Finished"
+    }
+  ],
+  "burgers": [
+    
+  ]
+}
