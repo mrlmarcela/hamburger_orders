@@ -1,5 +1,5 @@
 <template>
-    <div id="footer" class="bg-dark p-2 d-flex justify-content-center text-light w-100 p-4">
+    <div class="bg-dark d-flex justify-content-center align-items-center text-light w-100 p-4">
         <div>
             <p class="mb-3">Make Your Burger &copy; 2023</p>
             <div class="d-flex justify-content-center align-items-center">

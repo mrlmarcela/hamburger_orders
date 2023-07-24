@@ -1,7 +1,11 @@
-<template>
+<template lang="en">
+  <div class="d-flex flex-column h-100">
     <Navbar :logo="logo_src" :alt="app_name"/>
-    <router-view/>
+    <div class="flex-grow-1">
+      <router-view/>
+    </div>
     <Footer />
+  </div>
 </template>
 
 <script lang="ts">
@@ -29,6 +33,10 @@ export default class App extends Vue {
 }
 </script>
 <style>
+html, body, #app {
+  height: 100%;
+}
+
 .container{
   min-height: 250px;
 }

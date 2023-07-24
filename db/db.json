@@ -78,6 +78,15 @@
     }
   ],
   "burgers": [
-    
+    {
+      "name": "Adam Sandler",
+      "bread": "3 cheeses",
+      "meat": "Veggie burger",
+      "optional": [
+        "Tomato"
+      ],
+      "status": "Requested",
+      "id": 2
+    }
   ]
 }

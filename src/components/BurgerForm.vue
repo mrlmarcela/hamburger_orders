@@ -117,7 +117,7 @@ export default class BurgerForm extends Vue {
         this.bread = '';
         this.meat = '';
         this.optional = [];
-        this.msg = `Pedido Nº ${response.id} realizado com sucesso!`;
+        this.msg = `Order Nº ${response.id} successfully completed!`;
 
         setTimeout(() => this.msg = "", 3000);
         this.statusMsg = true;
