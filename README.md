@@ -1,5 +1,7 @@
 # hamburger_orders
-> **By:** Marcela Lima. https://www.linkedin.com/in/marcela--lima/
+
+**By:** Marcela Lima. https://www.linkedin.com/in/marcela--lima/
+
 
 This project was developed in order to study vue 3 with typescript.
 
