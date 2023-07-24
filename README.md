@@ -9,6 +9,7 @@ Were used:
 - Vue.js 3
 - Typescript
 - Bootstrap
+  
 
 ## Project setup
 ```
