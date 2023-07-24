@@ -1,4 +1,5 @@
 # hamburger_orders
+> **By:** Marcela Lima. https://www.linkedin.com/in/marcela--lima/
 
 This project was developed in order to study vue 3 with typescript.
 
@@ -26,4 +27,3 @@ npm run serve
 ```
 npm run backend
 ```
-> **By:** Marcela Lima. https://www.linkedin.com/in/marcela--lima/
